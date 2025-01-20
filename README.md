@@ -17,6 +17,11 @@ Meet Shivansh, a 2nd year B.Tech cs student with a strong interest in and profic
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![Static Badge](https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=yellow)
+
+
 
 
 
@@ -27,6 +32,8 @@ Meet Shivansh, a 2nd year B.Tech cs student with a strong interest in and profic
 ![Static Badge](https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jetbrains-%23000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spyder-red?style=for-the-badge&logo=spyderide&logoColor=black)
+![Static Badge](https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=black)
 
 
 ### OS
