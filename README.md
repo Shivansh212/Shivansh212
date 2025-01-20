@@ -1,6 +1,6 @@
 ### About me! 👋
 
-Meet Shivansh, a 3rd year B.Tech cs student with a strong interest in and proficiency
+Meet Shivansh, a 3rd year B.Tech CS-AI/ML student with a strong interest in and proficiency
  with Python, CSS, and JS. Shivansh is not only technically skilled but also holds a 
  leadership position as the vice-president of the technical club at their university.
 
