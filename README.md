@@ -1,8 +1,8 @@
 ### About me! 👋
 
-Meet Shivansh, a Final year B.Tech CS-AI/ML student with a strong interest in and proficiency
- with Python, CSS, and JS. Shivansh is not only technically skilled but also holds a 
- leadership position as the vice-president of the technical club at their university.
+Data Scientist/ML Engineer specializing in time-series forecasting, NLP, and GenAI architectures. Proven track record of architecting
+end-to-end predictive pipelines, deploying containerized microservices via FastAPI and Docker, and leveraging OpenAI Embeddings /
+LLMs to automate complex analytics.
 
 ### Techs
 
